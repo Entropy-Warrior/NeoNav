@@ -1,0 +1,23 @@
+.buildServer.json
+.DS_Store
+
+# Xcode
+*.xcuserstate
+*.xcuserdatad
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Build
+build/
+*.swiftpm
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
