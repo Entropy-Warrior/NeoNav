@@ -67,10 +67,11 @@ A floating strip. That's it. No menus. No clutter. No complexity. Just your book
 
 ### Download
 
-1. Download the latest release from the [Releases](../../releases) page
-2. Move `NeoNav.app` to your Applications folder
-3. Launch NeoNav
-4. Grant necessary permissions when prompted (for window positioning)
+1. Download the latest release from the [Releases](https://github.com/Entropy-Warrior/NeoNav/releases) page
+2. Open the DMG file
+3. Drag `NeoNav.app` to your Applications folder
+4. Launch NeoNav
+5. Grant necessary permissions when prompted (for window positioning)
 
 ### Build from Source
 
